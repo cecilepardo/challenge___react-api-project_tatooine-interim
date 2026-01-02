@@ -1,58 +1,86 @@
-# 🌵 Tatooine Intérim
+# challenge___react-api-project_tatooine-interim
 
-Plateforme de recrutement fictive inspirée de l’univers **Star Wars**, développée lors d’un **hackathon**.
 
-Le concept : mettre en relation des employeurs avec des **mercenaires intergalactiques** pour des missions temporaires sur Tatooine… et au-delà 🌌
-
----
-
-## 🎯 Contexte du projet
-
-- Projet réalisé dans le cadre d’un **hackathon en école de développement web**
-- Travail en **équipe**, avec contraintes de temps (48h)
-- Objectif : concevoir une application fonctionnelle de bout en bout
+Tatooine Intérim is a **fictional recruitment platform** inspired by the **Star Wars universe**, developed during a **web development hackathon**.
+The concept is to connect employers with **intergalactic mercenaries** for temporary missions on Tatooine… and beyond 🌌
 
 ---
 
-## 🧠 Concept
+## Purpose
 
-- Les recruteurs recherchent des mercenaires en fonction de leur besoin
-- Les mercenaires peuvent postuler
-- Interface volontairement décalée et immersive
-- Univers narratif utilisé comme fil conducteur UX
+The goal of this project was to:
+
+- Design a complete web application in a very limited time
+- Practice teamwork in a hackathon context
+- Build a functional frontend connected to a backend API
+- Apply React and TypeScript in a concrete project
+
+This project was created as part of a web development school hackathon.
 
 ---
 
-## 🛠️ Stack technique
+## Project Context
+
+- Developed during a **48-hour hackathon**
+- **Team project**
+- Strong time constraints and feature prioritization
+- Focus on delivering a working end-to-end application
+
+---
+
+## Concept
+
+- Recruiters can search for mercenaries based on their needs
+- Mercenaries can apply for temporary missions
+- A deliberately playful and immersive interface
+- A narrative universe used as a UX and design guideline
+
+---
+
+## Tech Stack
 
 ### Frontend
+
 - ⚛️ **React**
 - 🟦 **TypeScript**
-- 🎨 CSS / UI custom
+- 🎨 Custom CSS / UI
 
-### Backend (API séparée)
+### Backend (separate API)
+
 - 🟢 **Node.js**
 - 🚂 **Express**
-- API REST pour la gestion des profils et missions
+- REST API for managing profiles and missions
 
 ---
 
-## 🔄 Fonctionnalités principales
+## Main Features
 
-- ✔️ Liste des mercenaires
-- ✔️ Fiches profils
-- ✔️ Missions disponibles
-- ✔️ Interaction frontend / API
-- ✔️ Routing et gestion des états
+- ✔️ Mercenary listing
+- ✔️ Profile pages
+- ✔️ Available missions
+- ✔️ Frontend / API interaction
+- ✔️ Routing and state management
 
 ---
 
-## 👩‍💻 Objectifs pédagogiques
+## What I Practiced
 
-Ce projet nous permis de :
+- Team collaboration under time pressure
+- Frontend and backend communication
+- React application architecture
+- Feature prioritization and MVP mindset
+- Working with a shared Git workflow
 
-- travailler en équipe sur un temps court
-- gérer la communication frontend / backend
-- pratiquer React dans un contexte concret
-- apprendre à prioriser les fonctionnalités
+---
 
+## Status
+
+This is a hackathon project and is **not intended to be production-ready**.
+
+The focus was on learning, experimentation, and rapid prototyping.
+
+---
+
+## Notes
+
+This repository is kept as a snapshot of a collaborative learning experience and a creative technical challenge.
